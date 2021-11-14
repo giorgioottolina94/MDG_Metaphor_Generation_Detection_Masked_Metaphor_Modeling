@@ -1,0 +1,1082 @@
+arg1,arg2,verb,sentence,verb_idx,label
+knowledge,,absorb,He absorbed the knowledge or beliefs of his tribe .,1,1
+cost,,absorb,He absorbed the costs for the accident .,1,1
+tax,,absorb,The sales tax is absorbed into the state income tax .,4,1
+immigrant,,absorb,The immigrants were quickly absorbed into society .,4,1
+interest,,absorb,Her interest in butterflies absorbs her completely .,4,1
+workers,,abuse,This boss abuses his workers .,2,0
+system,,abuse,Do n't abuse the system .,2,1
+policeman,,abuse,The actress abused the policeman who gave her a parking ticket .,2,0
+alcohol,,abuse,Her husband often abuses alcohol .,3,1
+guest,,accommodate,This hotel can accommodate 250 guests .,3,0
+result,,accommodate,The scientists had to accommodate the new results with the existing theories .,4,1
+submission,,acknowledge,The program committee acknowledged the submission of the authors of the paper .,3,0
+colleague,,acknowledge,He never acknowledges his colleagues when they run into him in the hallway .,2,0
+kindness,,acknowledge,We must acknowledge the kindness she showed towards us .,2,0
+deed,,acknowledge,acknowledge the deed .,0,0
+prince,,acknowledge,The Crown Prince was acknowledged as the true heir to the throne .,4,0
+resident,,adhere,The residents of this village adhered to Catholicism .,5,1
+wallpaper,,adhere,Will this wallpaper adhere to the wall ?,3,0
+steering,,answer,The steering of my new car answers to the slightest touch .,6,1
+telephone,,answer,answer the telephone .,0,0
+question,,answer,The question concerning the meaning of life can not be answered .,10,0
+defendant,,answer,The defendant answered to all the charges of the prosecution .,2,0
+mountain,,ascend,We ascended the mountain .,1,0
+inheritance,,ascend,Inheritance may not ascend linearly .,3,1
+path,,ascend,The path ascended to the top of the hill .,2,0
+poland,,attack," Hitler attacked Poland on September 1 , 1939 and started World War II .",1,0
+speaker,,attack,The editors of the left - leaning paper attacked the new House Speaker .,8,1
+village,,attack,The Serbs attacked the village at night .,2,0
+problem,,attack,I attacked the problem as soon as I got out of bed .,1,1
+cancer,,attack,The cancer cells are attacking his liver .,4,1
+vienna,,besiege,The Turks besieged Vienna .,2,0
+problem,,besiege,She was besieged by so many problems that she got discouraged .,2,1
+press,,besiege,The press photographers besieged the movie star .,3,1
+foot,,bind,The Chinese would bind the feet of their women .,3,0
+book,,bind,They bind their books in leather .,1,0
+oxygen,,bind,The hydrogen binds the oxygen .,2,1
+meteor,,blaze,Meteors blazed across the atmosphere .,1,1
+pine,,blaze,The summer sun alone can cause a pine to blaze .,9,0
+spaceship,,blaze,The spaceship blazed out into space .,2,1
+foot,,blister,Her feet blistered during the long hike .,2,0
+administration,,blister,The Senator blistered the administration in his speech on Friday .,2,1
+haze,,blur,The haze blurs the hills .,2,0
+vision,,blur,The fog blurs my vision .,2,0
+distinction,,blur,The distinction between the two theories blurred .,6,1
+listener,,bolt,The listeners bolted when he discussed his strange ideas .,2,1
+food,,bolt,Do n't bolt your food !,2,1
+economy,,boost,The tax cut will boost the economy .,4,1
+voltage,,boost,Boost the voltage in an electrical circuit .,0,0
+singer,,boost,The singer had to be boosted onto the stage by a special contraption .,5,0
+ball,,bounce,The rubber ball bounced .,3,0
+people,,bounce,The ex - boxer 's job is to bounce people who want to enter this private club .,8,1
+government,,bow,The government bowed to the military pressure .,2,1
+life,,breathe,He breathed new life into the old house .,1,1
+fabric,,breathe,Our new synthetic fabric breathes and is perfect for summer wear .,4,1
+hair,,brush,Johnson brushed the hairs from his jacket .,1,0
+wall,,brush,He brushed the wall lightly .,1,0
+suit,,brush,She brushed the suit before hanging it back into the closet .,1,0
+suspense,,build,Suspense was building right from the beginning of the opera .,2,1
+school,,build,The government is building new schools in this state .,3,0
+nation,,build,build a modern nation .,0,1
+architect,,build,These architects build in interesting and new styles .,2,0
+defense,,build,build a defense on nothing but the accused person 's reputation .,0,1
+sum,,buy,This sum will buy you a ride on the train .,3,0
+love,,buy,She wanted to buy his love with her dedication to him and his work .,3,0
+story,,buy,I ca n't buy this story .,3,1
+bee,,buzz,bees were buzzing around the hive .,2,0
+plane,,buzz,Planes buzzed the crowds in the square .,1,0
+office,,buzz,This office is buzzing with activity .,3,1
+servant,,buzz,he buzzed the servant .,1,1
+essence,,capture,capture the essence of Spring   .,0,1
+heart,,capture,She captured all the men 's hearts .,1,1
+neutron,,capture,This nucleus has captured the slow - moving neutrons .,3,0
+way,,claw,They clawed their way to the top of the mountain .,1,1
+doorknob,,claw,She clawed the doorknob .,1,1
+rival,,claw,The politician clawed his rival .,2,1
+hill,,climb,Did you ever climb up the hill behind your house ?,3,0
+sale,,climb,Sales were climbing after prices were lowered .,2,1
+price,,climb,Sales were climbing after prices were lowered .,2,1
+path,,climb,The path climbed all the way to the top of the hill .,2,1
+drain,,clog,The leaves clog our drains in the Fall .,2,0
+horse,,clog,horses were clogged until they were tamed .,2,1
+market,,clog,The market is being clogged by these operations .,4,1
+mind,,clog,Fear clogged her mind .,1,1
+smoke,,cloud,The smoke clouded above the houses .,2,0
+face,,cloud,Their faces were clouded with sadness .,3,1
+memory,,cloud,The stroke clouded memories of her youth .,2,1
+liquid,,cloud,The chemical clouded the liquid to which it was added .,2,1
+idea,,color,His political ideas color his lectures .,3,1
+wall,,color,color the walls with paint in warm tones .,0,0
+act,,commit,commit a random act of kindness .,0,0
+message,,communicate,Please communicate this message to all employees .,1,0
+anxiety,,communicate,He communicated his anxieties to the psychiatrist .,1,0
+disease,,communicate,communicate a disease .,0,1
+room,,communicate,The rooms communicated .,2,1
+haircut,,compare,John compared his haircut to his friend 's .,1,0
+car,,compare,This car does not compare with our line of Mercedes .,4,0
+dynasty,,compare,We can compare the Han dynasty to the Romans .,2,0
+personality,,compose,Greed and ambition composed his personality .,3,1
+symphony,,compose,Beethoven composed nine symphonies .,1,0
+office,,computerize,Our office is fully computerized now .,4,0
+industry,,computerize,They computerized the car industry .,1,0
+content,,condense,condense the contents of a book into a summary .,0,1
+air,,condense,The cold air condensed the steam .,3,0
+planet,,condense,All our planets condensed out of the same material .,3,0
+plan,,condense,Congress condensed the three - year plan into a six - month plan .,1,1
+crowd,,convulse,The comedian convulsed the crowd .,2,1
+earthquake,,convulse,earthquakes convulsed the countryside .,1,1
+spasm,,convulse,The spasm convulses her facial muscles .,2,0
+muscle,,convulse,The muscles in her face convulsed .,5,0
+crocodile,,crawl,The crocodile was crawling along the riverbed .,3,0
+skin,,crawl,My skin crawled -- I was terrified .,2,1
+cheese,,crawl,The old cheese was crawling with maggots .,4,1
+child,,crawl,European children learn the breast stroke ; they often do n't know how to crawl .,14,0
+prince,,crown,The prince was crowned in Westminster Abbey .,3,0
+meeting,,crown,The speech crowned the meeting .,2,1
+building,,crown,A weather vane crowns the building .,3,1
+can,,crush,crush an aluminum can .,0,0
+toy,,crush,The car crushed the toy .,2,0
+refusal,,crush,She was crushed by his refusal of her invitation .,2,1
+bottle,,crush,The plastic bottle crushed against the wall .,3,0
+smoke,,curl,The cigar smoke curled up at the ceiling .,3,1
+hair,,curl," Curl my hair , please .",0,0
+plate,,dash,He dashed the plate against the wall .,1,0
+ambition,,dash,dashed ambitions and hopes .,0,1
+paint,,dash,blue paint dashed with white .,2,0
+mattress,,deflate,deflate the air mattress .,0,0
+confidence,,deflate,The bad review of his work deflated his self - confidence .,6,1
+economy,,deflate,The new measures deflated the economy .,3,1
+currency,,deflate,deflate the currency .,0,1
+balloon,,deflate,The balloons deflated .,2,0
+suit,,design,Chanel designed the famous suit .,1,0
+excuse,,design,She designed a good excuse for not attending classes that day .,1,1
+home,,devour,Fire had devoured our home .,2,1
+novel,,devour,She devoured his novels .,1,1
+sandwich,,devour,he devoured three sandwiches .,1,0
+milk,,digest,I can not digest milk products .,3,0
+information,,digest,I can not digest all this information .,3,1
+protein,,digest,Protein digests in a few hours .,1,0
+law,,digest,the government digested the entire law into a code .,2,1
+martini,,down,He downed three martinis before dinner .,1,1
+pound,,down,Some people can down a pound of meat in the course of one meal .,3,1
+suspect,,down,The policeman downed the heavily armed suspect .,2,0
+water,,drain,The rain water drains into this big vat .,3,0
+tank,,drain,We drained the oil tank .,1,0
+life,,drain,Life in the camp drained him .,4,1
+snow,,drift,snow drifting several feet high .,1,0
+price,,drift,stock prices are drifting higher .,3,1
+son,,drift,My son drifted around for years in California before going to law school .,2,1
+man,,drift,The unknown young man drifted among the invited guests .,4,1
+boat,,drift,drift the boats downstream .,0,0
+market,,drift,The stock market drifted upward .,3,1
+liter,,drink,The patient must drink several liters each day .,3,0
+word,,drink,The mother drinks in every word of her son on the stage .,2,1
+husband,,drink,The husband drinks and beats his wife .,2,0
+trouble,,drown,She drowned her trouble in alcohol .,1,1
+child,,drown,The child drowned in the lake .,2,0
+surface,,dull,Age had dulled the surface .,2,0
+appetite,,dull,Middle age dulled her appetite for travel .,2,1
+garbage,,dump,The truck dumped the garbage in the street .,2,0
+proprietor,,emerge," Suddenly , the proprietor emerged from his office .",4,0
+result,,emerge,Some nice results emerged from the study .,3,1
+event,,engrave,The event engraved itself into her memory .,2,1
+pen,,engrave,engrave the pen with the owner 's name .,0,0
+formula,,erase,Please erase the formula on the blackboard -- it is wrong !,1,0
+disk,,erase,Who erased the files form my hard disk ?,1,0
+unrest,,erupt,Unrest erupted in the country .,1,1
+tooth,,erupt,The tooth erupted and had to be extracted .,2,1
+rash,,erupt,A rash erupted on her arms after she had touched the exotic plant .,2,1
+bomb,,explode,We exploded the nuclear bomb .,1,0
+bottle,,explode,The champagne bottle exploded .,3,0
+boss,,explode,The boss exploded when he heard of the resignation of the secretary .,2,1
+bridge,,explode,The enemy exploded the bridge .,2,0
+lock,,fasten,He fastened the lock onto the door .,1,0
+dress,,fasten,This dress fastens in the back .,2,0
+nickname,,fasten,They fastened various nicknames to each other .,1,1
+grape,,ferment,We ferment the grapes for a very long time to achieve high alcohol content .,1,0
+child,,fill,fill the child with pride .,0,1
+pool,,fill,The pool slowly filled with water .,3,0
+container,,fill,The liquid fills the container .,2,0
+wing,,flap,The bird flapped its wings .,2,0
+star,,flare,Every star seemed to flare with new intensity .,4,1
+light,,flash,The lights were flashing .,3,0
+intelligence,,flash,The latest intelligence is flashed to all command posts .,4,1
+bill,,flash,he flashed a $ 100 bill .,1,1
+star,,flash,A shooting star flashed and was gone .,3,0
+log,,float,He floated the logs down the river .,1,0
+idea,,float,The Republicans are floating the idea of a tax reform .,3,1
+dancer,,float,The dancer floated across the stage .,2,1
+ruble,,float,The government floated the ruble for a few months .,2,1
+village,,flood,The swollen river flooded the village .,3,0
+market,,flood,flood the market with tennis shoes .,0,1
+basement,,flood,Our basement flooded during the heavy rains .,2,0
+crowd,,flow,The crowd flowed out of the stadium .,2,1
+water,,flow,Water flowed into the cave .,1,0
+champagne,,flow,The champagne flowed at the wedding .,2,1
+garbage,,flush,The garbage flushed down the river .,2,0
+sky,,flush,the sky flushed with rosy splendor .,2,1
+wound,,flush,flush the wound with antibiotics .,0,1
+character,,form,form the young child 's character .,0,1
+water,,form,the water formed little beads .,2,0
+language,,fracture,This writer really fractures the language .,3,1
+balance,,fracture,These events could fracture the balance of power .,3,1
+bolt,,fracture,The pothole fractured a bolt on the axle .,2,0
+car,,fuel," fuel aircraft , ships , and cars .",0,0
+tanker,,fuel,The tanker fueled in Bahrain .,2,0
+debate,,fuel,fuel the debate on creationism .,0,1
+press,,gag,The press was gagged .,3,1
+horse,,gallop,The horse was galloping along .,3,0
+girl,,glare,The girl glared at the man who tried to make a pass at her .,2,0
+moon,,glare,The moon glared back at itself from the lake 's surface .,2,1
+sun,,glare,The sun glared down on us .,2,1
+firefly,,glow,The fireflies were glowing and flying about in the garden .,3,0
+face,,glow,Her face glowed when she came out of the sauna .,2,1
+coal,,glow,The coals were glowing in the dark .,3,0
+heart,,glow,Make the people 's hearts glow .,5,1
+passenger,,grab,The passenger grabbed for the oxygen mask .,2,0
+hand,,grab,She grabbed the child 's hand and ran out of the room .,1,0
+story,,grab,This story will grab you .,3,1
+conversation,,gravitate,The conversation gravitated towards politics .,2,1
+boy,,gravitate,Boys gravitate towards girls at that age .,1,1
+star,,gravitate,The stars gravitate towards each other .,2,0
+spice,,grind,grind the spices in a mortar .,0,0
+mind,,grope,His mind groped to make the connection .,2,1
+woman,,grope,He made some sexual advances at the woman in his office and groped her repeatedly .,12,0
+man,,guard,There will be men guarding the horses .,4,0
+possession,,guard,Please guard my possessions while I 'm away .,1,0
+vaccine,,guard,This vaccine will guard you against infection .,3,1
+lava,,gutter,The cooling lava continued to gutter toward lower ground .,5,0
+tear,,gutter,Tears guttered down her face .,1,1
+rain,,gutter,The heavy rain guttered the soil .,3,0
+building,,gutter,The roofer began to gutter the buildings .,4,0
+color,,harmonize,The colors do n't harmonize .,4,1
+goal,,harmonize,harmonize one 's goals with one 's abilities .,0,1
+work,,heap,He heaped him with work .,1,1
+firewood,,heap,heap firewood around the fireplace .,0,0
+platter,,heap,heap the platter with potatoes .,0,0
+boar,,hunt,Goering often hunted wild boars in Poland .,2,0
+immigrant,,hunt,They hunted the unwanted immigrants out of the neighborhood .,1,1
+oscillator,,hunt,The oscillator hunts about the correct frequency .,2,1
+back,,hurt,This exercise will hurt your back .,3,0
+business,,hurt,Our business was hurt by the new competition .,3,1
+heat,,ignite,Great heat can ignite almost any dry matter .,3,0
+gas,,ignite,Marsh gases ignited suddenly .,2,0
+hatred,,ignite,The ostentatious way of living of the rich ignites the hatred of the poor .,8,1
+plant,,immigrate,only few plants can immigrate to the island .,4,1
+people,,immigrate,Many people immigrated at the beginning of the 20th century .,2,0
+head,,incline,She inclined her head to the student .,1,0
+language,,incline,Their language inclines us to believe them .,2,1
+child,,infect,Your children have infected you with this head cold .,3,0
+society,,infect,society was infected by racism .,2,1
+laughter,,infect,His laughter infects everyone who is in the same room .,2,1
+charge,,inflate,The charges were inflated .,3,1
+economy,,inflate,The war inflated the economy .,2,1
+currency,,inflate,inflate the currency .,0,1
+castle,,inherit,I inherited a castle from my French grandparents .,1,0
+problem,,inherit,The new chairman inherited many problems from the previous chair .,3,1
+eyesight,,inherit,I inherited my good eyesight from my mother .,1,0
+glucose,,inject,We injected the glucose into the patient 's vein .,1,0
+life,,inject,He injected new life into the performance .,1,1
+hydrogen,,inject,inject hydrogen into the balloon .,0,0
+program,,interrupt,We interrupt the program for the following messages .,1,0
+pregnancy,,interrupt,She interrupted her pregnancy .,1,1
+poland,,invade," Hitler invaded Poland on September 1 , 1939 .",1,0
+colleague,,invade,This new colleague invades my territory .,3,1
+lungs,,invade,The cancer had invaded her lungs .,3,1
+pedal,,jam,The driver jammed the brake pedal to the floor .,2,0
+mechanism,,jam,the mechanism jammed .,2,0
+account,,juggle,juggle an account so as to hide a deficit .,0,1
+job,,juggle,She had to juggle her job and her children .,3,1
+ball,,juggle,the player juggled the ball .,2,0
+action,,key,key one 's actions to the voters ' prevailing attitude .,0,1
+dog,,kick,The boy kicked the dog .,2,0
+gun,,kick,The gun kicked back into my shoulder .,2,0
+check,,kite,He kited many checks .,1,1
+dollar,,kite,The businessman kited millions of dollars .,2,1
+pilot,,kite,The pilot kited for a long time over the mountains .,2,0
+bird,,land,The bird landed on the highest branch .,2,0
+airplane,,land,the pilot managed to land the airplane safely .,4,0
+jail,,land,this may land you in jail .,2,1
+smuggler,,land,The drug smugglers landed the heroin on the beach of the island .,3,0
+blow,,land,He landed several blows on his opponent 's head .,1,1
+ship,,land,The ship landed in Pearl Harbor .,2,0
+book,,lay,lay the books on the table .,0,0
+foundation,,lay,lay the foundation for a new health care plan .,0,1
+responsibility,,lay,lay a responsibility on someone .,0,1
+news,,leak,The news were leaked to the paper .,3,1
+water,,leak,Water leaked out of the can into the backpack .,1,0
+container,,leak,The container leaked gasoline .,2,0
+rifle,,lean,He leaned his rifle against the wall .,1,0
+car,,lend,I will lend you my car .,2,0
+story,,lend,This story would lend itself well to serialization on television .,3,1
+criticism,,level,level criticism or charges at somebody .,0,1
+building,,level,The building was levelled .,3,0
+ground,,level,The ground levelled off .,2,0
+fate,,lie,The fate of Bosnia lies in the hands of the West .,4,1
+conversation,,lighten,the conversation lightened me up a bit .,2,1
+load,,lighten,she lightened the load on the tired donkey .,1,0
+room,,lighten,The room lightened up .,2,0
+tree,,line,trees line the riverbank .,1,1
+sorrow,,line,sorrow had lined his face .,2,1
+book,,line,lined books are more enduring .,0,0
+truck,,load,load the truck with hay .,0,0
+gun,,load,He loaded his gun carefully .,1,0
+bag,,load,load the bags onto the trucks .,0,0
+bike,,lock,Lock the bike to the fence !,0,0
+knee,,lock,The therapist noticed that the patient 's knees tended to lock in this exercise .,10,0
+hand,,lock,He locked his hands around her neck .,1,1
+laughing,,lock,He was locked in a laughing fit .,2,1
+jewel,,lock,She locked her jewels in the safe .,1,0
+bicycle,,loop,The bicycle looped around the tree .,2,1
+plane,,loop,The stunt pilot looped his plane .,3,0
+surface,,map,map the surface of Venus .,0,0
+galaxy,,map,We have n't even begun to map the many galaxies that we know exist .,6,0
+sorrow,,map,sorrow was mapped on the mother 's face .,2,1
+prisoner,,march,The Japanese marched their prisoners through Manchuria .,2,0
+contribution,,match,The company matched the employees ' contributions .,2,1
+dream,,match,This job does n't match my dreams .,4,1
+athlete,,match,Let them match their best athletes against ours .,2,1
+piece,,match,The two pieces match .,3,0
+experience,,mellow,Age and experience mellowed him over the years .,3,1
+apple,,mellow,These apples need to mellow a bit more .,4,0
+wax,,melt,The wax melted in the sun .,2,0
+ice,,melt,The sun melted the ice .,2,0
+actor,,melt,Hundreds of actors were melting into the scene .,4,1
+resistance,,melt,her resistance melted under his charm .,2,1
+furniture,,mold,The furniture molded in the old house .,2,0
+ball,,mold,She molded the rice balls carefully .,1,0
+dress,,mold,The dress molds her beautiful figure .,2,1
+aerator,,mount,They mounted the aerator on a floating .,1,0
+slide,,mount,mount slides for macroscopic analysis .,0,0
+campaign,,mount,mount a campaign against pornography .,0,1
+production,,mount,mount a theater production .,0,1
+husband,,nag,She nags her husband all day long .,1,0
+doubt,,nag,nagging concerns and doubts .,0,1
+security,,negociate,negociate securities .,0,0
+mountain,,negociate,The hiker negociated the high mountain pass .,2,1
+party,,negociate,The parties negociated all night .,2,0
+republic,,neutralize,The treaty neutralized the small republic .,2,1
+optimism,,neutralize,Her optimism neutralizes his gloom .,2,1
+solution,,neutralize,She neutralized the solution .,1,0
+approval,,nod,He nodded his approval .,1,0
+teacher,,nod,The teacher nodded when the student gave the right answer .,2,0
+man,,nod,The old man was nodding in his chair .,4,0
+flower,,nod,the flowers were nodding in the breeze .,3,1
+room,,paint,We painted the rooms yellow .,1,0
+mistress,,paint,He painted his mistress many times .,1,0
+heart,,palpitate,Her violent feelings palpitated the young woman 's heart .,3,0
+sign,,paste,paste the sign on the wall .,0,0
+wall,,paste,paste the sign on the wall .,0,0
+opponent,,paste,He pasted his opponent .,1,1
+moon,,peep,The new moon peeped through the tree tops .,3,1
+cold,,pierce,The cold pierced her bones .,2,1
+scream,,pierce,The scream pierced the night .,2,1
+needle,,pierce,The needle pierced her flesh .,2,0
+needle,,pin,pin the needle to the shirt .,0,0
+bug,,ping,The bugs pinged the lamp shade .,2,0
+bullet,,ping,the bullet pinged when they struck the car .,2,0
+accountant,,ping,I 'll ping my accountant -- April 15 is nearing .,2,1
+machine,,ping,ping your machine in the office .,0,0
+market,,plunge,the stock market plunged .,3,1
+student,,plunge,The professor plunged his students into the study of the Italian text .,2,1
+mind,,poison,poison someone 's mind .,0,1
+husband,,poison,She poisoned her husband .,1,0
+drink,,poison,Her husband poisoned her drink in order to kill her .,2,0
+mushroom,,poison,This mushrooms can poison .,3,0
+book,,portray,The book portrays the actor as a selfish person .,2,1
+father,,portray,The father is portrayed as a good - looking man in this painting .,3,0
+question,,pose,This poses an interesting question .,1,1
+woman,,pose,We do n't know the woman who posed for Leonardo so often .,7,0
+knocker,,pound,the salesman pounded the door knocker .,2,0
+water,,pound,The locks pound the water of the canal .,2,1
+prisoner,,pound,The prisoners are safely pounded .,4,1
+water,,pour,They poured water over the floor .,1,0
+water,,pour,They poured water over the floor .,1,0
+people,,pour,People were pouring out of the theater .,2,1
+money,,pour,We poured money into the education of our children .,1,1
+crisis,,precipitate,The crisis precipitated by Russia 's revolution .,2,1
+economy,,precipitate,Our economy precipitated into complete ruin .,2,1
+train,,precipitate,The bridge broke and precipitated the train into the river below .,4,1
+peace,,preserve,preserve the peace in the family .,0,1
+forest,,preserve,preserve the forest and the lakes .,0,0
+finger,,prick,The nurse pricked my finger to get a small blood sample .,2,0
+skin,,prick,The needle pricked his skin .,2,0
+conscience,,prick,The thought of her unhappiness pricked his conscience .,5,1
+ego,,puff,The sudden fame puffed her ego .,3,1
+critic,,puff,The critics puffed up this Broadway production .,2,1
+face,,puff,Her faced puffed up from the drugs .,2,0
+bullet,,pump,He pumped bullets into the dummy .,1,1
+athlete,,pump,The athlete pumps weights in the gym .,2,0
+witness,,pump,She pumped the witnesses for information .,1,1
+table,,push,He pushed the table into a corner .,1,0
+woman,,push," "" Now push hard "" , said the doctor to the woman .",2,0
+salesman,,push,The salesman is aggressively pushing the new computer model .,4,1
+fifty,,push,She is pushing fifty .,2,1
+reform,,push,The liberal party pushed for reforms .,3,1
+drug,,push,The guy hanging around the school is pushing drugs .,7,1
+crowd,,push,The crowd pushed forward .,2,0
+sun,,radiate,The sun radiates heat .,2,0
+heat,,radiate,The sun radiates heat .,2,0
+happiness,,radiate,She radiates happiness .,1,1
+police,,raid,The police raided the crack house .,2,0
+pirate,,raid,The pirates raided the coastal villages regularly .,2,0
+company,,raid,T. Boone Pickens raided many large companies .,3,0
+refrigerator,,raid,Our babysitter raided our refrigerator .,2,1
+feeling,,recapture,She could not recapture that feeling of happiness .,3,1
+idea,,recapture,The author recaptures an old idea here .,2,1
+fort,,recapture,The military forces managed to recapture the fort .,5,0
+prisoner,,recapture,They tried to recapture the escaped prisoner .,3,0
+bell,,recast,The bell cracked and had to be recast .,7,0
+image,,recast,She had to recast her image to please the electorate in her home state .,3,1
+fame,,redound,Fame redounds to the heroes .,1,1
+effort,,redound,Her efforts will redound to the general good .,3,1
+belief,,reflect,This action reflects his true beliefs .,2,1
+sound,,reflect,Sound is reflected well in this auditorium .,2,0
+road,,reflect,Drive carefully -- the wet road reflects .,6,0
+image,,reflect,her sunglasses reflected his image .,2,0
+interest,,reflect,His lack of interest in the project reflects badly on him .,7,1
+mess,,reflect,The mess in his dorm room reflects on the student .,6,1
+system,,reform,reform a political system .,0,0
+tension,,relax,relax the tension on the rope .,0,0
+bath,,relax,A hot bath always relaxes me .,4,0
+colleague,,relax,our new colleague relaxed when he saw that we were a friendly group .,3,0
+government,,relax,The government relaxed the curfew after most of the rebels were caught .,2,1
+rule,,relax,The rules relaxed after the new director arrived .,2,1
+suffering,,repair,One can never fully repair the suffering and losses of the Jews in the Third Reich .,4,1
+man,,revive,The doctors revived the comatose man .,2,0
+soup,,revive,A hot soup will revive me .,4,1
+interest,,revive,Interest in ESP revived .,3,1
+style,,revive,He revived this style of opera .,1,1
+curtain,,rip,The curtain ripped from top to bottom .,2,0
+tornado,,rip,The tornado ripped along the coast .,2,1
+candidate,,rip,The candidate ripped into his opponent mercilessly .,2,1
+plant,,root,this plant roots quickly .,2,0
+problem,,root,The problem roots in her depression .,2,1
+pig,,root,the pig was rooting for truffles .,3,0
+soprano,,rotate,We rotate the lead soprano every night .,1,1
+intern,,rotate,Interns have to rotate for a few months .,3,1
+crop,,rotate,We rotate the crops so as to maximize the use of the soil .,1,1
+composure,,ruffle,She wanted to ruffle his composure .,3,1
+people,,ruffle,This play is going to ruffle some people .,5,1
+feather,,ruffle,The bird ruffled its feathers .,2,0
+surface,,ruffle,The wind ruffled the surface of the water .,2,0
+fabric,,ruffle,The seamstress ruffled the curtain fabric .,2,0
+car,,ruin,You have ruined my car by pouring sugar in the tank !,2,0
+chance,,ruin,This behavior will ruin your chances of winning the election .,3,1
+field,,salt,the rebels had salted the fields with mines and traps .,3,1
+lecture,,salt,She salts her lectures with jokes .,1,1
+meat,,salt,people used to salt meats on ships .,3,0
+courage,,salute,I salute your courage !,1,1
+stench,,salute,a terrible stench saluted our nostrils .,3,1
+soldier,,salute," When the officers show up , the soldiers have to salute .",10,0
+X-ray,,scan,the surgeon scanned the X - ray .,2,0
+headline,,scan,She scanned the newspaper headlines while waiting for the taxi .,1,1
+sky,,scan,The beams scanned the night sky .,2,1
+heat,,scorch,The heat scorched the countryside .,2,1
+forest,,scorch,The wildfire scorched the forest and several homes .,2,0
+cat,,scrape,The cat scraped at the armchair .,2,0
+letter,,scrape,They scraped a letter into the stone .,1,0
+money,,scrape,She had scraped together enough money for college .,2,1
+money,,seize,The sales clerk quickly seized the money on the counter .,4,0
+invader,,seize,the invaders seized the land and property of the inhabitants .,2,0
+fear,,seize,Fear seized the prisoners .,1,1
+book,,sell,These books sell like hot cakes .,2,0
+image,,sell,The French try to sell us their image as great lovers .,4,1
+shoe,,sell,The brothers sell shoes .,2,0
+hope,,shake,The bad news shook her hopes .,3,1
+salt,,shake,Shake the salt out of the salt shaker .,0,0
+argument,,sharpen,We had to sharpen our arguments .,3,1
+debate,,sharpen,The debate sharpened .,2,1
+vision,,sharpen,This drug will sharpen your vision .,3,1
+image,,shed,He shed his image as a pushy boss .,1,1
+tear,,shed,She shed a lot of tears when this happened .,1,0
+dog,,shed,Our dog sheds every Spring .,2,0
+career,,shipwreck,You have shipwrecked my career .,2,1
+vessel,,shipwreck,The vessel was shipwrecked .,3,0
+praise,,shower,He was showered with praise .,2,1
+meteor,,shower,Meteors showered down over half of Australia .,1,0
+present,,shower,He showered her with presents .,1,1
+soldier,,sift,The soldiers sifted through the woods .,2,1
+information,,sift,He sifted the information .,1,1
+candidate,,sift,They sifted through the job candidates .,1,1
+nightingale,,sing,The nightingale was singing .,3,0
+kettle,,sing,the kettle was singing .,3,1
+court,,sit,When does the court of law sit ?,6,1
+house,,sit,The White House sits on Pennsylvania Avenue .,3,1
+car,,smash,She smashed her car against the guard rail .,1,0
+motorcycle,,smash,The motorcycle smashed into the guard rail .,2,0
+ring,,smash,The police smashed the drug ring after they were tipped off .,2,1
+meat,,smother,smother the meat in gravy .,0,0
+cream,,smother,the butter cream smothered the cake .,3,1
+disapproval,,snort,she snorted her disapproval of the proposed bridegroom .,1,1
+critic,,snort,The critic snorted contemptuously .,2,1
+cocaine,,snort,The addict was snorting cocaine almost every day .,3,0
+seed,,sow,She sowed sunflower seeds .,1,0
+suspicion,,sow,sow suspicion or beliefs .,0,1
+ground,,sow,sow the ground with sunflower seeds .,0,0
+word,,spell,How do you spell this word ?,3,0
+trouble,,spell,I 'm afraid this spells trouble !,4,1
+husband,,spell,She spelled her husband at the wheel .,1,1
+worker,,spell,the workers spell every four hours .,2,1
+water,,splash,She splashed the water around her .,1,0
+water,,splash,She splashed the water around her .,1,0
+mountain,,splash,The mountain was splashed with snow .,3,1
+tablecloth,,spot,The wine spotted the tablecloth .,2,0
+dress,,spot,This dress spots quickly .,2,0
+area,,spot,spot the areas that one should clearly identify .,0,0
+water,,spray,Water sprayed all over the floor .,1,0
+water,,spray,spray water on someone .,0,0
+wall,,spray,spray the wall with paint .,0,0
+language,,spread,The invaders spread their language all over the country .,2,1
+cheese,,spread,spread cheese on a piece of bread .,0,0
+infection,,spread,the infection spread .,2,0
+oil,,spread,A big oil spot spread across the water .,4,0
+wood,,square,square the wood with a file .,0,0
+shoulder,,square,He squared his shoulders .,1,1
+idea,,square,one idea squares with the other one .,2,1
+man,,stagger,The drunken man staggered into the room .,3,0
+chair,,stagger,The architect decided to stagger the chairs in the lecture hall .,4,0
+bill,,stagger,She was staggered with bills after she tried to rebuild her house following the earthquake .,2,1
+industry,,stagnate,Industry will stagnate if we do not stimulate our economy .,2,1
+water,,stagnate,There are marshes that stagnate the waters .,4,0
+blood,,stagnate,blood stagnates in the capillaries .,1,0
+name,,stamp,a man whose name is permanently stamped on our maps .,6,1
+letter,,stamp,Are the letters properly stamped ?,4,0
+animal,,stampede,Thunderbolts can stampede animals .,2,0
+company,,stampede,Companies will now stampede to release their latest software .,3,1
+ship,,steam,The ship steamed off into the Pacific .,2,0
+indifference,,steam,her indifference to his amorous advances really steamed the young man .,7,1
+vegetable,,steam,just steam the vegetables .,1,0
+bill,,steamroller,The Senator steamrollered the bill to defeat .,2,1
+teacher,,steamroller,The new teacher tends to steamroller .,5,1
+road,,steamroller,steamroller the road .,0,0
+opposition,,steamroller,steamroller the opposition .,0,1
+mane,,stream,their manes streamed like stiff black pennants in the wind .,2,1
+sweat,,stream,She was streaming with sweat .,2,1
+tear,,stream,Tears streamed down her face .,1,0
+nose,,stuff,My nose is all stuffed .,4,0
+dinner,,stuff,She stuffed herself at the dinner .,1,1
+pillow,,stuff,stuff a pillow with feathers .,0,0
+turkey,,stuff,Have you stuffed the turkey yet ?,2,0
+poison,,suck,suck the poison from the place where the snake bit .,0,0
+worker,,suck,The current boom in the economy sucked many workers in from abroad .,6,1
+country,,swallow,The Nazis swallowed the Baltic countries .,2,1
+wave,,swallow,The huge waves swallowed the small boat and it sank shortly thereafter .,3,1
+word,,swallow,She swallowed the last words of her speech .,1,1
+word,,swallow,He swallowed his words .,1,1
+anger,,swallow,I swallowed my anger and kept quiet .,1,1
+story,,swallow,Am I supposed to swallow that story ?,4,1
+music,,swell,The music swelled to a crescendo .,2,1
+mother,,swell,The mother was swelling with importance when she spoke of her son .,3,1
+belly,,swell,The bellies of the starving children are swelling .,7,0
+wood,,swell,The water swells the wood .,2,0
+brain,,swim,my brain is swimming after the bottle of champagne .,3,1
+meat,,swim,the meat was swimming in a fatty gravy .,3,1
+snake,,swim,this snake swims through the soil where it lives .,2,0
+notice,,tack,tack the notice on the board .,0,0
+boat,,tack,The sailors decided to tack the boat .,4,0
+verse,,tack,He tacked together some verses .,1,1
+action,,talk,Actions talk louder than words .,1,1
+baby,,talk,The baby talks already .,2,0
+garlic,,taste,Can you taste the garlic ?,2,0
+wine,,taste,We tasted wines last night .,1,0
+freedom,,taste,The ex - slave tasted freedom shortly before she died .,4,1
+state,,tax,The State taxes alcohol heavily .,2,0
+patience,,tax,You are taxing my patience .,2,1
+failure,,tax,They taxed him failure to appear in court .,1,1
+muscle,,tense,the bodybuilder 's neck muscles tensed .,5,0
+bus,,thunder,The bus thundered down the road .,2,1
+river,,thunder,The river thundered below .,2,1
+victim,,tie,They tied their victim to the chair .,1,0
+jet,,tie,These big jets are tied to large airports .,4,1
+fly,,tie,The fishermen tied their flies .,2,0
+dinner,,top,They topped off their dinner with a cognac .,1,1
+tree,,top,A star tops the Christmas Tree .,2,0
+tower,,top,The towers were topped with conical roofs .,3,0
+hiker,,top,The hikers topped the mountain just before noon .,2,1
+outline,,trace,trace the outline of a figure in the sand .,0,0
+deer,,trace,The hunters traced the deer into the woods .,2,0
+circumstance,,trace,She traced the circumstances of her birth .,1,1
+experience,,transform,This experience transformed her completely .,2,1
+energy,,transform,It can transform energy to light .,2,0
+grape,,tread,tread grapes to make wine .,0,0
+bird,,tread,male birds tread the females .,2,0
+camp,,trench,He trenched his military camp .,1,0
+letter,,trench,letters trenched into the stone .,1,0
+soldier,,trench,trench the fallen soldiers .,0,0
+chain,,tug,The prisoner tugged at the chains .,2,0
+living,,tug,She tugged for years to make a decent living .,1,1
+freighter,,tug,The tugboat tugged the freighter into the harbor .,2,0
+cart,,tug,The horse finally tugged the cart out of the mud .,3,0
+shoulder,,twist,The wrestler twisted his shoulder .,2,0
+cord,,twist,The cord is all twisted .,4,0
+word,,twist,Do n't twist my words .,2,1
+people,,uproot,The war uprooted many people .,2,1
+democracy,,uproot,The vestiges of political democracy were soon uprooted .,7,1
+vine,,uproot,They plan to uproot the vine that has spread all over the garden .,3,0
+fortune,,vest,She vested her vast fortune in her two sons .,1,0
+property,,vest,The property vests in the trustees .,2,0
+paris,,visit,Did you ever visit Paris ? .,3,0
+rage,,visit,The principal visited his rage on the students .,2,1
+relative,,visit," Every summer , we visited our relatives in the country for a month .",4,0
+illness,,visit," Every summer , we visited our relatives in the country for a month .",4,1
+ball,,volley,They began to volley the tennis ball .,3,0
+curse,,volley,I heard him volley a string of curses .,3,1
+pig,,wallow,pigs were wallowing in the mud .,2,0
+success,,wallow,wallow in your success !,0,1
+yellow,,wear,She was wearing yellow that day .,2,0
+smile,,wear,He always wears a smile .,2,1
+hair,,wear,wear one 's hair in a certain way .,0,0
+bullet,,whistle,The bullets whistled past him .,2,1
+melody,,whistle,She whistled a melody .,1,0
+optimism,,whistle,Her optimism whistled away these worries .,2,1
+feeling,,wrestle,He wrestled all his life with his feeling of inferiority .,1,1
+decision,,wrestle,I wrestled with this decision for years .,1,1
+child,,wrestle,The children wrestled in the garden .,2,0
+person,,bow,He bowed before the King .,1,0
+person,,breathe,I can breathe better when the air is clean .,2,0
+wine,,breathe,This rare Bordeaux must be allowed to breathe for at least 2 hours .,7,0
+drawing,,color,The child colored the drawings .,2,0
+judgement,,color,My personal feelings color my judgment in this case .,3,1
+people,,communicate,He and his sons have n't communicated for years .,6,0
+dictionary,,computerize,Please use a computerized disctionary .,3,0
+feeling,,condense,Her feelings condensed .,2,1
+person,,drain,The exercise class drains me of energy .,3,1
+employee,,dump,The company dumped him after many years of service .,2,1
+cup,,engrave,engraved the trophy cupt with the winner 's .,0,0
+people,,erase,The Turks erased the Armenians in 1915 .,2,1
+volcano,,erupt,Vesuvius erupts once in a while .,1,0
+society,,ferment,Islam is fermenting Africa .,2,1
+lens,,grind,grind lenses for glasses and cameras .,0,0
+theatre,,jam,the theater was jampacked .,3,1
+woman,,lean,She leaned over the banister .,1,0
+man,,lighten," after a glass of wine , he lightened up a bit .",7,1
+person,,lock,They were locked in embrace .,2,1
+man,,march,He marched into the classroom and announced the exam .,1,0
+feeling,,palpitate,His heart palpitated .,2,1
+man,,peep,He peeped at the woman through the window .,1,0
+painter,,portray," Goya wanted to portray his mistress , the Duchess of Alba .",3,0
+finding,,preserve,We preserve these archeological findings .,1,0
+ocean,,sail,We sailed the Atlantic .,1,0
+woman,,sing,She was singing while she was cooking .,2,0
+person,,stamp,stamp fruit extract the juice .,0,1
+man,,swim,We had to swim for 20 minutes to reach the shore .,3,0
+woman,,talk,She talks a lot of nonsense .,1,0
+person,,transform,He transformed into a monster .,1,1
+shot,,volley,Gun shots volleyed at the attackers .,2,0
+woman,,whistle,She whistled for her maid .,1,0
+,,," Music is filled with a vast range of instruments and vocal techniques ranging from singing to rapping; there are solely instrumental pieces, solely vocal pieces (such as songs without instrumental accompaniment) and pieces that combine singing and instruments",,1
+,,," The word originated from Greek μουσική (mousike; ""(art) of the Muses"")",,1
+,,,"In its most general form, the activities portraying music as an art form or cultural activity include the creation of works of music (songs, tunes, symphonies, and so on), the criticism of music, the study of the history of music, and the aesthetic examination of music",,1
+,,," Ancient Greek and Indian philosophers conceived music in two parts: melodies, as tones ordered horizontally, and harmonies as tones ordered vertically",,1
+,,," However, 20th-century composer John Cage theorized that any sound can be music, saying, for example, ""There is no noise, only sound",,1
+,,," There are many types of music, namely popular music, traditional music, art music, music written for religious ceremonies, and work songs such as chanteys",,1
+,,,g,,1
+,,,", country music) and genres can be further divided into subgenres (e",,1
+,,,g,,1
+,,," Music may be played or sung and enjoyed live at a rock concert or orchestra performance, heard live as part of a dramatic work (a music theater show or opera), or it may be recorded and listened to on a radio, MP3 player, CD player, smartphone or as film score or TV show",,1
+,,,g,,1
+,,,", graduation and marriage), social activities (e",,1
+,,,g,,1
+,,,", dancing) and cultural activities shifting from amateur karaoke singing to playing in an amateur funk band or singing in a community choir",,1
+,,," People may embrace music as a hobby, like a teen playing cello in a youth orchestra, or work as a professional musician or singer",,1
+,,," The music industry includes the individuals who craft new songs and musical pieces (such as songwriters and composers), individuals who perform music (which include orchestra, jazz band and rock band musicians, singers and conductors), 
+individuals who record music (music producers and sound engineers), individuals who organize concert tours, and individuals who sell recordings, sheet music, and scores to customers",,1
+,,,"\nMusic may also refer to:', 'Classical music is art music produced or absorbed in the traditions of Western culture, generally considered to have begun in Europe after the fall of the Western Roman Empire in the late 5th century CE and continuing to present day",,1
+,,," The major periods involved the medieval (500–1400), Renaissance (1400–1600), Baroque (1600–1750), Classical (1750–1820), Romantic (1800–1910), Modernist (1890–1975) and Postmodern era/Contemporary (1950–present) eras",,1
+,,," The earliest reference to ""classical music"" carried by the Oxford English Dictionary is from about 1829",,1
+,,,Western staff notation is employed by composers to indicate to the performer the pitches and durations for a piece of music,,1
+,,,It reflects both sacred (religious) and secular music,,1
+,,,", 'Electronic music is music that blends electronic musical instruments, digital instruments, or circuitry-based music technology in its creation",,1
+,,,It incorporates both music made using electronic and electromechanical means (electroacoustic music),,1
+,,," Pure electronic instruments run entirely on circuitry-based sound generation, for instance using devices such as an electronic oscillator, theremin, or synthesizer",,1
+,,," Electromechanical instruments can carry mechanical parts such as strings, hammers, and electric elements including magnetic pickups, power amplifiers and loudspeakers",,1
+,,," Such electromechanical devices comprise the telharmonium, Hammond organ, electric piano and the electric guitar",,1
+,,,The first electronic musical devices were created at the end of the 19th century,,1
+,,," During the 1920s and 1930s, a number of electronic instruments were invented and the first compositions featuring them were written",,1
+,,," By the 1940s, magnetic audio tape encouraged musicians to tape sounds and then modify them by changing the tape speed or direction, leading to the development of electroacoustic tape music in the 1940s, in Egypt and France",,1
+,,," Musique concrète, revived in Paris in 1948, was based on editing together recorded fragments of natural and industrial sounds",,1
+,,,Music drawn solely from electronic generators was first produced in Germany in 1953,,1
+,,,Electronic music was also generated in Japan and the United States beginning in the 1950s and Algorithmic composition with computers was first demonstrated in the same decade,,1
+,,," In the early 1970s, Moog synthesizers and Japanese drum machines helped shape synthesized electronic music",,1
+,,," In the early 1980s mass produced digital synthesizers, such as the Yamaha DX7, grew popular and MIDI (Musical Instrument Digital Interface) was developed",,1
+,,,", 'A music video is a short film or video, of variable length, that depicts a song or album with imagery that is produced for promotional or artistic purposes",,1
+,,,Tie-ins and merchandising can be echanged for toys or for food or other products,,1
+,,,"\nAlthough the origins of the music video date back to musical short films that first emerged in the 1920s, they again came into prominence in the 1980s when the channel MTV (originally ""Music Television"") based its format around the medium",,1
+,,," Prior to the 1980s, these kinds of videos were characterized by various terms including ""illustrated song,"" ""filmed insert,""  ""promotional (promo) film,"" ""promotional clip,"" ""promotional video,"" ""song video,"" ""song clip,"" or ""film clip",,1
+,,,"""\nMusic videos reflect a wide range of styles and contemporary video-making techniques, including animation, live-action, documentary, and non-narrative approaches such as abstract film",,1
+,,," Some music videos fuse different styles with music, such as animation and live-action",,1
+,,,"  Other music videos may not convey any concept, being only a filmed version of the song\'s live concert performance",,1
+,,,Some types of folk music may be found world music,,1
+,,,It has been restored with commercial and classical styles,,1
+,,," This type of folk music also blends fusion genres such as folk rock, folk metal, and others",,1
+,,," While contemporary folk music reflects a genre generally distinct from traditional folk music, in U",,1
+,,,S,,1
+,,," English it shares the same name, and it often attracts the same performers and venues as traditional folk music",,1
+,,,"Music can be broken into genres in varying ways, such as popular music and art music, or religious music and secular music",,1
+,,,"Dance is performed with a vast range of instruments and vocal techniques ranging from singing to rapping; there are solely instrumental pieces, solely vocal pieces (such as songs without instrumental accompaniment) and pieces that combine singing and instruments",,1
+,,," The term derives from Greek μουσική (mousike; ""(art) of the Muses"")",,1
+,,,"In its most general form, the terminologies describing music as an art form or cultural activity include the creation of works of music (songs, tunes, symphonies, and so on), the criticism of music, the study of the history of music, and the aesthetic examination of music",,1
+,,," Ancient Greek and Indian authors defined music in two parts: melodies, as tones ordered horizontally, and harmonies as tones ordered vertically",,1
+,,," However, 20th-century artist John Cage thought that any sound can be music, saying, for example, ""There is no noise, only sound",,1
+,,," There are many types of art, including popular music, traditional music, art music, music written for religious ceremonies, and work songs such as chanteys",,1
+,,,g,,1
+,,,", country music) and genres can be further divided into subgenres (e",,1
+,,,g,,1
+,,," Music may be played or sung and heard live at a rock show or orchestra performance, heard live as part of a dramatic work (a music theater show or opera), or it may be recorded and listened to on a radio, MP3 player, CD player, smartphone or as film score or TV show",,1
+,,,g,,1
+,,,", graduation and marriage), social activities (e",,1
+,,,g,,1
+,,,", dancing) and cultural expressions ranging from amateur karaoke singing to playing in an amateur funk band or singing in a community choir",,1
+,,," People may make music as a hobby, like a child playing cello in a youth orchestra, or work as a professional musician or singer",,1
+,,," The music department includes the individuals who create new songs and musical pieces (such as songwriters and composers), individuals who perform music (which include orchestra, jazz band and rock band musicians, singers and conductors), 
+individuals who record music (music producers and sound engineers), individuals who organize concert tours, and individuals who sell recordings, sheet music, and scores to customers",,1
+,,,"\nMusic may also refer to:', 'Classical music is art music produced or rooted in the heritages of Western culture, generally considered to have begun in Europe after the fall of the Western Roman Empire in the late 5th century CE and continuing to present day",,1
+,,," The major eras are the medieval (500–1400), Renaissance (1400–1600), Baroque (1600–1750), Classical (1750–1820), Romantic (1800–1910), Modernist (1890–1975) and Postmodern era/Contemporary (1950–present) eras",,1
+,,," The earliest connection to ""classical music"" recorded by the Oxford English Dictionary is from about 1829",,1
+,,,Western staff language is used by composers to indicate to the performer the pitches and durations for a piece of music,,1
+,,,It includes both sacred (religious) and secular material,,1
+,,,", 'Electronic music is music that employs electronic musical instruments, digital techniques, or circuitry-based music technology in its creation",,1
+,,,It includes both music made using electronic and electromechanical means (electroacoustic music),,1
+,,," Pure electronic instruments depended entirely on technology-based sound generation, for instance using devices such as an electronic oscillator, theremin, or synthesizer",,1
+,,," Electromechanical instruments can have mechanical features such as strings, hammers, and electric elements including magnetic pickups, power amplifiers and loudspeakers",,1
+,,," Such electromechanical resources include the telharmonium, Hammond organ, electric piano and the electric guitar",,1
+,,,The first electronic musical systems were developed at the end of the 19th century,,1
+,,," During the 1920s and 1930s, a variety of electronic instruments were introduced and the first compositions featuring them were written",,1
+,,," By the 1940s, magnetic audio device allowed musicians to tape sounds and then modify them by changing the tape speed or direction, leading to the development of electroacoustic tape music in the 1940s, in Egypt and France",,1
+,,," Commission concrète, created in Paris in 1948, was based on editing together recorded fragments of natural and industrial sounds",,1
+,,,Music produced solely from electronic materials was first produced in Germany in 1953,,1
+,,,Electronic music was also created in Japan and the United States beginning in the 1950s and Algorithmic composition with computers was first demonstrated in the same decade,,1
+,,," In the early 1970s, Moog machines and Japanese drum machines helped popularize synthesized electronic music",,1
+,,," In the early 1980s mass produced digital tools, such as the Yamaha DX7, became popular and MIDI (Musical Instrument Digital Interface) was developed",,1
+,,,", 'A music video is a short film or video, of variable length, that integrates a song or album with pictures that is produced for promotional or artistic purposes",,1
+,,,Tie-ins and symbols can be used for toys or for food or other products,,1
+,,,"\nAlthough the origins of the music video date back to musical short pieces that first appeared in the 1920s, they again came into prominence in the 1980s when the channel MTV (originally ""Music Television"") based its format around the medium",,1
+,,," Prior to the 1980s, these kinds of videos were described by various sources including ""illustrated song,"" ""filmed insert,""  ""promotional (promo) film,"" ""promotional clip,"" ""promotional video,"" ""song video,"" ""song clip,"" or ""film clip",,1
+,,,"""\nMusic videos use a wide spectrum of styles and contemporary video-making techniques, including animation, live-action, documentary, and non-narrative approaches such as abstract film",,1
+,,," Some music videos combine different styles with music, such as commercials and live-action",,1
+,,,"  Other music videos may not have any meaning, being only a filmed version of the song\'s live concert performance",,1
+,,,Some types of folk composition may be called world music,,1
+,,,It has been contrasted with commercial and classical versions,,1
+,,," This type of folk music also includes fusion influences such as folk rock, folk metal, and others",,1
+,,," While contemporary folk art is a genre generally distinct from traditional folk music, in U",,1
+,,,S,,1
+,,," English it shares the same name, and it often shares the same musicians and venues as traditional folk music",,1
+,,,"Music can be divided into categories in varying ways, such as popular music and art music, or religious music and secular music",,1
+,,,"['Technology (""science of craft"", from Greek τέχνη, techne, ""art, skill, cunning of hand""; and -λογία, -logia) is the sum of techniques, skills, methods, and processes involved in the production of goods or services or in the accomplishment of objectives, such as scientific investigation",,1
+,,,Systems (e,,1
+,,,g,,1
+,,," machines) generating technology by taking an input, changing it according to the system\'s use, and then producing an outcome are referred to as technology systems or technological systems",,1
+,,,The prehistoric invention of shaped stone tools inspired by the discovery of how to control fire increased sources of food,,1
+,,,The invention of the wheel encouraged humans to travel in and control their environment,,1
+,,,", 'Seagate Technology Holdings plc, an Irish public limited company (commonly shortened to as Seagate), is an American data storage company",,1
+,,,It was established in 1978 as Shugart Technology and commenced business in 1979,,1
+,,," Since 2010, the company has been located in Dublin, Ireland, with operational headquarters in Fremont, California, United States",,1
+,,,", 'A technology company (or tech company) is an electronics-based technology company, concentrating, for example, business relating to digital electronics, software, and internet-related services, such as e-commerce services",,1
+,,,", 'An institute of technology (also referred to as: technological university, technical university, university of technology, technological educational institute, technical college, polytechnic university or just polytechnic) is an institution 
+of tertiary education (such as a university or college) that engages in engineering, technology, applied science, and natural sciences",,1
+,,," The term technology originates from the Greek word techne, meaning art and craft, and the word logos, meaning word and speech",,1
+,,,""", 'Information technology (IT) involves the use of computers to create, process, store and exchange all kinds of electronic data and information",,1
+,,,IT is typically used within the context of business operations as compared to personal or entertainment technologies,,1
+,,,IT is believed to be a subset of information and communications technology (ICT),,1
+,,," An information technology system (IT system) is generally an information system, a communications system, or, more specifically computing, a computer system – including all hardware, software, and peripheral equipment – operated by a limited group of IT users",,1
+,,,"\nHumans have been creating, retrieving, manipulating, and communicating information since the Sumerians in Mesopotamia developed writing in about 3000 BC",,1
+,,,Leavitt and Thomas L,,1
+,,,We shall label it information technology (IT),,1
+,,,"The term is commonly used as a synonym for computers and computer networks, but it also reflects other information distribution technologies such as television and telephones",,1
+,,,"Based on the storage and processing technologies developed, it is possible to distinguish four distinct phases of IT development: pre-mechanical (3000 BC – 1450 AD), mechanical (1450–1840), electromechanical (1840–1940), and electronic (1940–present)",,1
+,,,This article centers on the most recent period (electronic),,1
+,,," When pointed to with its abbreviation, EdTech, it is often referring to the industry of companies that create educational technology",,1
+,,,", 'Massachusetts Institute of Technology (MIT) manages a private land-grant research university in Cambridge, Massachusetts",,1
+,,,The institute has an urban campus that measures more than a mile (1,,1
+,,,"6 km) alongside the Charles River, and runs a number of major off-campus facilities such as the MIT Lincoln Laboratory, the Bates Center, and the Haystack Observatory, as well as affiliated laboratories such as the Broad and Whitehead Institutes",,1
+,,," \nAs of June 2021, 97 Nobel laureates, 26 Turing Award winners, and 8 Fields Medalists have been identified with MIT as alumni, faculty members, or researchers",,1
+,,," In addition, 58 National Medal of Science recipients, 29 National Medals of Technology and Innovation recipients, 50 MacArthur Fellows, 80 Marshall Scholars, 3 Mitchell Scholars, 22 Schwarzman Scholars, 9 Knight-Hennessy Scholars,  41 astronauts, and 16 Chief Scientists of the U",,1
+,,,S,,1
+,,,Air Force have been connected with MIT,,1
+,,,MIT became a member of the Association of American Universities (AAU),,1
+,,,", 'Gigabyte Technology (translated as GIGABYTE or sometimes GIGA-BYTE; formally GIGA-BYTE Technology Co",,1
+,,,", Ltd",,1
+,,,) denotes a Taiwanese manufacturer and distributor of computer hardware,,1
+,,,\nGigabyte\'s principal business is motherboards,,1
+,,,It shipped 4,,1
+,,,"8 million motherboards in the first quarter of 2015, which pushed it to become the leading motherboard vendor",,1
+,,," Gigabyte also builds custom graphics cards and laptop computers (including thin and light laptops under its ""Aero"" sub-brand)",,1
+,,," In 2010, Gigabyte was placed 17th in ""Taiwan\'s Top 20 Global Brands"" by the Taiwan External Trade Development Council",,1
+,,,"The company is publicly held and registered on the Taiwan Stock Exchange, stock ID number TWSE: 2376",,1
+,,,", 'The Indian Institutes of Technology (IITs) are autonomous public technical universities running across India",,1
+,,," The Institutes of Technology Act, 1961 created twenty-three institutes",,1
+,,,The Minister of Education summoned the ex officio Chairperson of the IIT Council,,1
+,,," As of 2020, the total number of seats for undergraduate programs in all IITs surpassed 16,053",,1
+,,,", 'Micron Technology, Inc",,1
+,,," is an American producer of computer memory and computer data storage utilizing dynamic random-access memory, flash memory, and USB flash drives",,1
+,,," It remains headquartered in Boise, Idaho",,1
+,,,Its consumer products are directed under the brands Crucial  and Ballistix,,1
+,,," Micron and Intel together developed IM Flash Technologies, which produces NAND flash memory",,1
+,,,It bought Lexar between 2006 and 2017,,1
+,,,"many North American Indian tribes, but especially those of the',",,1
+,,,"Ojibway Indians of northern Michigan, Wisconsin, and Minnesota.',",,1
+,,,"They were collected by Henry Rowe Schoolcraft, the reknowned',",,1
+,,,"Schoolcraft married Jane, O-bah-bahm-wawa-ge-zhe-go-qua (The',",,1
+,,,"fur trader, and O-shau-gus-coday-way-qua (The Woman of the Green',",,1
+,,,"Prairie), who was a daughter of Waub-o-jeeg (The White Fisher),',",,1
+,,,"who was Chief of the Ojibway tribe at La Pointe, Wisconsin.',",,1
+,,,"Jane and her mother are credited with having researched,',",,1
+,,,"authenticated, and compiled much of the material Schoolcraft',",,1
+,,,"included in his Algic Researches (1839) and a revision published',",,1
+,,,"that Longfellow used as the basis for The Song of Hiawatha.',",,1
+,,,"Longfellow began Hiawatha on June 25, 1854, he completed it',",,1
+,,,"Finnish epic poem Kalevala.  Longfellow made no secret of the',",,1
+,,,"fact that he had used the meter of the Kalevala; but as for the',",,1
+,,,"I would add a personal note here.  My father's roots include',",,1
+,,,"Ojibway Indians: his mother, Margaret Caroline Davenport, was a',",,1
+,,,"daughter of Susan des Carreaux, O-gee-em-a-qua (The Chief Woman),',",,1
+,,,"Finally, my mother used to rock me to sleep reading portions of',",,1
+,,,"Hiawatha to me, especially:',",,1
+,,,"""Wah-wah-taysee, little fire-fly,',",,1
+,,,"Little, flitting, white-fire insect',",,1
+,,,"Little, dancing, white-fire creature,',",,1
+,,,"Light me with your little candle,',",,1
+,,,"Ere upon my bed I lay me,',",,1
+,,,"Ere in sleep I close my eyelids!""',",,1
+,,,"Should you ask me, whence these stories?',",,1
+,,,"Whence these legends and traditions,',",,1
+,,,"With the odors of the forest',",,1
+,,,"With the dew and damp of meadows,',",,1
+,,,"With the curling smoke of wigwams,',",,1
+,,,"With the rushing of great rivers,',",,1
+,,,"With their frequent repetitions,',",,1
+,,,"As of thunder in the mountains?',",,1
+,,,"I should answer, I should tell you,',",,1
+,,,"""From the forests and the prairies,',",,1
+,,,"From the great lakes of the Northland,',",,1
+,,,"From the land of the Ojibways,',",,1
+,,,"From the land of the Dacotahs,',",,1
+,,,"From the mountains, moors, and fen-lands',",,1
+,,,"Where the heron, the Shuh-shuh-gah,',",,1
+,,,"Feeds among the reeds and rushes.',",,1
+,,,"I repeat them as I heard them',",,1
+,,,"From the lips of Nawadaha,',",,1
+,,,"The musician, the sweet singer.""',",,1
+,,,"Should you ask where Nawadaha',",,1
+,,,"Found these legends and traditions,',",,1
+,,,"I should answer, I should tell you,',",,1
+,,,"""In the bird's-nests of the forest,',",,1
+,,,"In the lodges of the beaver,',",,1
+,,,"In the hoofprint of the bison,',",,1
+,,,"In the eyry of the eagle!',",,1
+,,,"""All the wild-fowl sang them to him,',",,1
+,,,"In the moorlands and the fen-lands,',",,1
+,,,"In the melancholy marshes;',",,1
+,,,"Chetowaik, the plover, sang them,',",,1
+,,,"Mahng, the loon, the wild-goose, Wawa,',",,1
+,,,"The blue heron, the Shuh-shuh-gah,',",,1
+,,,"And the grouse, the Mushkodasa!""',",,1
+,,,"If still further you should ask me,',",,1
+,,,"Tell us of this Nawadaha,""',",,1
+,,,"I should answer your inquiries',",,1
+,,,"""In the vale of Tawasentha,',",,1
+,,,"In the green and silent valley,',",,1
+,,,"By the pleasant water-courses,',",,1
+,,,"Dwelt the singer Nawadaha.',",,1
+,,,"Round about the Indian village',",,1
+,,,"Spread the meadows and the corn-fields,',",,1
+,,,"And beyond them stood the forest,',",,1
+,,,"Stood the groves of singing pine-trees,',",,1
+,,,"Green in Summer, white in Winter,',",,1
+,,,"Ever sighing, ever singing.',",,1
+,,,"""And the pleasant water-courses,',",,1
+,,,"You could trace them through the valley,',",,1
+,,,"By the alders in the Summer,',",,1
+,,,"By the white fog in the Autumn,',",,1
+,,,"By the black line in the Winter;',",,1
+,,,"And beside them dwelt the singer,',",,1
+,,,"In the vale of Tawasentha,',",,1
+,,,"In the green and silent valley.',",,1
+,,,"""There he sang of Hiawatha,',",,1
+,,,"How he prayed and how be fasted,',",,1
+,,,"How he lived, and toiled, and suffered,',",,1
+,,,"Ye who love the haunts of Nature,',",,1
+,,,"Love the sunshine of the meadow,',",,1
+,,,"Love the shadow of the forest,',",,1
+,,,"Love the wind among the branches,',",,1
+,,,"And the rain-shower and the snow-storm,',",,1
+,,,"And the rushing of great rivers',",,1
+,,,"Through their palisades of pine-trees,',",,0
+,,,"And the thunder in the mountains,',",,0
+,,,"Whose innumerable echoes',",,0
+,,,"Flap like eagles in their eyries;--',",,0
+,,,"Listen to these wild traditions,',",,0
+,,,"To this Song of Hiawatha!',",,0
+,,,"Love the ballads of a people,',",,0
+,,,"That like voices from afar off',",,0
+,,,"Call to us to pause and listen,',",,0
+,,,"Speak in tones so plain and childlike,',",,0
+,,,"Scarcely can the ear distinguish',",,0
+,,,"Whether they are sung or spoken;--',",,0
+,,,"Listen to this Indian Legend,',",,0
+,,,"To this Song of Hiawatha!',",,0
+,,,"Ye whose hearts are fresh and simple,',",,0
+,,,"Who have faith in God and Nature,',",,0
+,,,"Who believe that in all ages',",,0
+,,,"Every human heart is human,',",,0
+,,,"For the good they comprehend not,',",,0
+,,,"That the feeble hands and helpless,',",,0
+,,,"Groping blindly in the darkness,',",,0
+,,,"Touch God's right hand in that darkness',",,0
+,,,"And are lifted up and strengthened;--',",,0
+,,,"Listen to this simple story,',",,0
+,,,"To this Song of Hiawatha!',",,0
+,,,"Ye, who sometimes, in your rambles',",,0
+,,,"Through the green lanes of the country,',",,0
+,,,"Where the tangled barberry-bushes',",,0
+,,,"Hang their tufts of crimson berries',",,0
+,,,"Over stone walls gray with mosses,',",,0
+,,,"Pause by some neglected graveyard,',",,0
+,,,"For a while to muse, and ponder',",,0
+,,,"On a half-effaced inscription,',",,0
+,,,"Written with little skill of song-craft,',",,0
+,,,"Homely phrases, but each letter',",,0
+,,,"Stay and read this rude inscription,',",,0
+,,,"Read this Song of Hiawatha!',",,0
+,,,"On the great Red Pipe-stone Quarry,',",,0
+,,,"Gitche Manito, the mighty,',",,0
+,,,"He the Master of Life, descending,',",,0
+,,,"On the red crags of the quarry',",,0
+,,,"Stood erect, and called the nations,',",,0
+,,,"Called the tribes of men together.',",,0
+,,,"From his footprints flowed a river,',",,0
+,,,"Gleamed like Ishkoodah, the comet.',",,0
+,,,"And the Spirit, stooping earthward,',",,0
+,,,"With his finger on the meadow',",,0
+,,,"Traced a winding pathway for it,',",,0
+,,,"Saying to it, ""Run in this way!""',",,0
+,,,"From the red stone of the quarry',",,0
+,,,"With his hand he broke a fragment,',",,0
+,,,"Moulded it into a pipe-head,',",,0
+,,,"Shaped and fashioned it with figures;',",,0
+,,,"From the margin of the river',",,0
+,,,"Took a long reed for a pipe-stem,',",,0
+,,,"With its dark green leaves upon it;',",,0
+,,,"Filled the pipe with bark of willow,',",,0
+,,,"With the bark of the red willow;',",,0
+,,,"Breathed upon the neighboring forest,',",,0
+,,,"Made its great boughs chafe together,',",,0
+,,,"Till in flame they burst and kindled;',",,0
+,,,"And erect upon the mountains,',",,0
+,,,"Gitche Manito, the mighty,',",,0
+,,,"Smoked the calumet, the Peace-Pipe,',",,0
+,,,"And the smoke rose slowly, slowly,',",,0
+,,,"Through the tranquil air of morning,',",,0
+,,,"First a single line of darkness,',",,0
+,,,"Then a denser, bluer vapor,',",,0
+,,,"Then a snow-white cloud unfolding,',",,0
+,,,"Like the tree-tops of the forest,',",,0
+,,,"Ever rising, rising, rising,',",,0
+,,,"Till it touched the top of heaven,',",,0
+,,,"Till it broke against the heaven,',",,0
+,,,"And rolled outward all around it.',",,0
+,,,"From the groves of Tuscaloosa,',",,0
+,,,"From the far-off Rocky Mountains,',",,0
+,,,"From the Northern lakes and rivers',",,0
+,,,"All the tribes beheld the signal,',",,0
+,,,"Saw the distant smoke ascending,',",,0
+,,,"And the Prophets of the nations',",,0
+,,,"By the signal of the Peace-Pipe,',",,0
+,,,"Bending like a wand of willow,',",,0
+,,,"Waving like a hand that beckons,',",,0
+,,,"Gitche Manito, the mighty,',",,0
+,,,"Calls the tribes of men together,',",,0
+,,,"Calls the warriors to his council!""',",,0
+,,,"Down the rivers, o'er the prairies,',",,0
+,,,"Came the warriors of the nations,',",,0
+,,,"All the warriors drawn together',",,0
+,,,"By the signal of the Peace-Pipe,',",,0
+,,,"To the great Red Pipe-stone Quarry,',",,0
+,,,"And they stood there on the meadow,',",,0
+,,,Other characteristics are a call and response between the lead vocalist and the chorus and an especially tense vocal sound,,0
+,,,S,,0
+,,," R&B chart in the 1960s, and many recordings crossed over into the pop charts in the U",,0
+,,,S,,0
+,,,", Britain and elsewhere",,0
+,,," Owned by the Japanese conglomerate Sony Group Corporation, it is part of the Sony Music Group, which is owned by Sony Corporation of America",,0
+,,,"\nIt was originally founded in 1929 as American Record Corporation and renamed as Columbia Recording Corporation in 1938, following its acquisition by the Columbia Broadcasting System",,0
+,,," All of BMG\'s former labels (Arista, Jive, LaFace, J, etc",,0
+,,,) would eventually be absorbed into RCA Records (also formely owned by BMG) in 2011,,0
+,,," The merger was completed on August 1, 2019",,0
+,,,"\nCountry music often consists of ballads and dance tunes with generally simple forms, folk lyrics, and harmonies often accompanied by string instruments such as banjos, electric and acoustic guitars, steel guitars (such as pedal steels and dobros), and fiddles as well as harmonicas",,0
+,,," It catalogs more than three million album entries and 30 million tracks, as well as information on musicians and bands",,0
+,,," Initiated in 1991, the database was first made available on the Internet in 1994",,0
+,,,AllMusic is owned by RhythmOne,,0
+,,,", '""Music! Music! Music! (Put Another Nickel In)"" is a popular song written by Stephen Weiss and Bernie Baum and published in 1949",,0
+,,," It is generally produced for playback by DJs who create seamless selections of tracks, called a mix, by segueing from one recording to another",,0
+,,,EDM producers also perform their music live in a concert or festival setting in what is sometimes called a live PA,,0
+,,," UMG\'s corporate headquarters are located in Hilversum, Netherlands and its operational headquarters are located in Santa Monica, California",,0
+,,," The biggest music company in the world,  it is one of the ""Big Three"" record labels, along with Sony Music and Warner Music Group",,0
+,,,"""  UMG has signed licensing agreements with more than 400 platforms worldwide",,0
+,,,", 'Gospel music is a genre of Christian music",,0
+,,,Gospel music can be traced to the early 17th century,,0
+,,,Most of the churches relied on hand clapping and foot stomping as rhythmic accompaniment,,0
+,,,Most of the singing was done a cappella,,0
+,,," The first published use of the term ""gospel song"" probably appeared in 1874",,0
+,,,\nThe original gospel songs were written and composed by authors such as George F,,0
+,,," Root, Philip Bliss, Charles H",,0
+,,," Gabriel, William Howard Doane, and Fanny Crosby",,0
+,,,"\nSouthern gospel used all male, tenor-lead-baritone-bass quartet make-up",,0
+,,,British black gospel refers to Gospel music of the African diaspora produced in the UK,,0
+,,,", 'Into the Music is the 11th studio album by Northern Irish singer-songwriter Van Morrison, and was released in August 1979",,0
+,,,", 'The Music are an English alternative rock band, formed in Kippax, Leeds in 1999",,0
+,,,", 'Warner Music Group Corp",,0
+,,,", ""YouTube Music is a music streaming service developed by YouTube, a subsidiary of Google",,0
+,,," It provides a tailored interface for the service, oriented towards music streaming, allowing users to browse through songs and music videos on YouTube based on genres, playlists, and recommendations",,0
+,,," \nThe service also offers a premium tier, which enables ad-free playback audio-only background playback and downloading songs for offline playback",,0
+,,,These subscription benefits are also offered to subscribers of Google Play Music and YouTube Premium,,0
+,,," In the 1960s, several British rock bands such as the Rolling Stones, the Who and the Animals were referred to and promoted as being R&B bands; posters for the Who\'s residency at the Marquee Club in 1964 contained the slogan, ""Maximum R&B""",,0
+,,,", 'The Carpenters: Music, Music, Music is a Carpenters television special from 1980",,0
+,,,"  It included guest stars such as Ella Fitzgerald, John Davidson and Nelson Riddle and his orchestra",,0
+,,,", 'Music, Music is the eighth studio album by Australian-American pop singer Helen Reddy that was released in the summer of 1976 by Capitol Records and later described by J",,0
+,,," On August 2 of that year the Recording Industry Association of America awarded the album with Gold certification for sales of 500,000 copies in the United States",,0
+,,," It debuted on Billboard\'s Top LP\'s & Tapes chart that same month, in the issue dated August 14, and got as high as number 16 during its 13 weeks there, and in Canada\'s RPM magazine it peaked at number 14",,0
+,,," The third album recorded by Reddy with producer Joe Wissert, Music, Music was cited in 1977 by Reddy as a personal favorite from among her albums",,0
+,,," On August 23, 2005, Music, Music was released for the first time on compact disc as one of two Helen Reddy albums on one CD, the other album being her 1975 studio release, No Way to Treat a Lady",,0
+,,,"  \nMusic Choice is distributed nationwide by \u202fComcast Xfinity,\u202fCharter Spectrum,\u202fCox Communications,\u202fVerizon Fios,\u202fDirecTV\u202fand many other mid-size and smaller  MVPDs",,0
+,,,", '",,0
+,,,music is a top-level domain name (TLD) released in 2003 for use in music dissemination and appreciation,,0
+,,,"\nOn April 17, 2019 DotMusic Limited announced that their rights application had been approved by the Internet Corporation for Assigned Names and Numbers (ICANN) and contracting was in the works",,0
+,,,", 'K-pop (Korean: 케이팝; RR: keipap), short for Korean popular music, is a genre of music originating in South Korea as part of South Korean culture",,0
+,,,O,,0
+,,,"\nThe term ""K-pop"" became popular in the 2000s",,0
+,,," The earliest, widespread description of nanotechnology referred to the particular technological goal of precisely manipulating atoms and molecules for fabrication of macroscale products, also now referred to as molecular nanotechnology",,0
+,,," A more generalized description of nanotechnology was subsequently established by the National Nanotechnology Initiative, which defined nanotechnology as the manipulation of matter with at least one dimension sized from 1 to 100 nanometers",,0
+,,," Nanotechnology may be able to create many new materials and devices with a vast range of applications, such as in nanomedicine, nanoelectronics, biomaterials energy production, and consumer products",,0
+,,,", 'ON Technology was a software company in the United States",,0
+,,,It was formed in 1987  by Mitch Kapor after his departure from Lotus Software,,0
+,,,The original plan of the business was to build an object-oriented PC desktop environment providing a variety of applications,,0
+,,,"\nON was acquired by Symantec on October 27, 2003",,0
+,,,"\n\n\n== References ==', 'TCL Technology (originally an abbreviation for Telephone Communication Limited) is a Chinese multinational electronics company headquartered in Huizhou, Guangdong Province",,0
+,,," Founded as a state-owned enterprise, it designs, develops, manufactures and sells products including television sets, mobile phones, air conditioners, washing machines, refrigerators and small electrical appliances",,0
+,,," In 2010, it was the world\'s 25th-largest consumer electronics producer",,0
+,,,"TCL comprises four listed companies: TCL Technology which is listed on the Shenzhen Stock Exchange, and TCL Electronics Holdings, Ltd",,0
+,,," (SEHK: 1070), TCL Communication Technology Holdings, Ltd",,0
+,,,"(former code SEHK: 2618; delisted in 2016), China Display Optoelectronics Technology Holdings Ltd",,0
+,,,(SEHK: 334) and Tonly Electronics Holdings Ltd,,0
+,,,(SEHK: 1249) which are listed on the Hong Kong Stock Exchange,,0
+,,,"On 7 February 2020, TCL Corporation changed its name to TCL Technology",,0
+,,,", ""BOE Technology Group Co",,0
+,,,", Ltd",,0
+,,,", or Jingdongfang (Chinese: 京东方科技集团股份有限公司), is a Chinese electronic components producer founded in April 1993",,0
+,,," Its core businesses are interface devices, smart IoT systems and smart medicine and engineering integration",,0
+,,," BOE is one of the world's largest manufacturers of LCD, OLEDs and flexible displays",,0
+,,,It corresponds to military camouflage for these parts of the electromagnetic spectrum (i,,0
+,,,e,,0
+,,,", multi-spectral camouflage)",,0
+,,,Radiation-absorbent material was also tested and made to reduce or block radar signals that reflect off the surfaces of aircraft,,0
+,,," Such changes to shape and surface composition comprise stealth technology as currently used on the Northrop Grumman B-2 Spirit ""Stealth Bomber""",,0
+,,,This concept was first explored through camouflage to make an object\'s appearance blend into the visual background,,0
+,,," As the potency of detection and interception technologies (radar, infrared search and tracking, surface-to-air missiles, etc",,0
+,,,Some military uniforms are treated with chemicals to reduce their infrared signature,,0
+,,,", 'Tyler Technologies, Inc",,0
+,,," Tyler Technologies has offices in 17 states and one in Toronto, Ontario, Canada",,0
+,,,", 'Anna University is a public state university located in Tamil Nadu, India",,0
+,,,The main campus is in Chennai,,0
+,,,It was originally established on 4 September 1978 and was named after C,,0
+,,,N,,0
+,,," Annadurai, the former Chief Minister of Tamil Nadu",,0
+,,," After taking many different forms over the years, as per a September 2020 bill passed in the Tamil Nadu Legislative assembly, the varsity is now reconstituted to be an affiliating university for engineering colleges across Tamil Nadu excluding the engineering colleges that are part of Anna Technological and Research University",,0
+,,,The University is now the affiliating authority for close to 550 engineering colleges in Tamil Nadu,,0
+,,," Contemporary digital real estate technologies could therefore include property management using digital dashboards, smart home technology, research and analytics, listing services/tech-enabled brokerages, 
+mobile applications, residential and commercial lending, 3D-modeling for online portals, automation, crowdfunding real estate projects, shared spaces management, as well as organizing, analyzing, and extracting key data from lengthy rental documents",,0
+,,,", 'Media technology may refer to:\n\nData storage devices\nArt media technology – Category:Visual arts media\nPrint media technology – Category:Printing\nDigital media technology – Category:Digital media\nElectronic media technology – 
+Category:Digital media or Category:Electronic publishing\nMedia technology university programmes\nMedia psychology, the field of study that examines media, technology and the effect on human behavior', 'Appropriate technology is a movement (and its manifestations)  
+encompassing technological choice and application that is small-scale, affordable by locals, decentralized, labor-intensive, energy-efficient, environmentally sound, and locally autonomous",,0
+,,," Well-known examples of appropriate technology applications include: bike- and hand-powered water pumps (and other self-powered equipment), the universal nut sheller, self-contained solar lamps and streetlights, and passive solar building designs",,0
+,,," Today appropriate technology is often developed using open source principles, which have led to open-source appropriate technology (OSAT) and thus many of the plans of the technology can be freely found on the Internet",,0
+,,,", ""ETH Zürich (English: ETH; Swiss Federal Institute of Technology in Zürich; German: Eidgenössische Technische Hochschule Zürich) is a public research university in the city of Zürich, Switzerland",,0
+,,," Founded by the Swiss Federal Government in 1854 with the stated mission to educate engineers and scientists, the school focuses exclusively on science, technology, engineering, and mathematics",,0
+,,," Like its sister institution EPFL, it is part of the Swiss Federal Institutes of Technology Domain, part of the Swiss Federal Department of Economic Affairs, Education and Research",,0
+,,,"In the 2021 edition of QS World University Rankings, ETH Zurich was ranked 6th in the world, placing it as the second-best European university after the University of Oxford",,0
+,,," In the 2020 QS World University Rankings by subject, it ranked 4th in the world for engineering and technology (2nd in Europe) and 1st for earth and marine science",,0
+,,," There are currently 22,200 students from over 120 countries, of which 4,180 are pursuing doctoral degrees",,0
+,,,"As of November 2019, 21 Nobel laureates, 2 Fields Medalists, 2 Pritzker Prize winners, and 1 Turing Award winner have been affiliated with the Institute, including Albert Einstein",,0
+,,,Other notable alumni include John von Neumann and Santiago Calatrava,,0
