@@ -1,4 +1,4 @@
-# mdg_metaphor_detection_generation_masked_metaphor_modeling
+# MDG_Metaphor_Detection_Generation_Masked_Metaphor_Modeling
 MDG: Metaphor Detection and Generation with Masked Metaphor Modeling - Data and Source Code
 
 This study tackles literal to metaphorical sentence generation, presenting a framework that can potentially lead to the production of an infinite number of new metaphors.  
